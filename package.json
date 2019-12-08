@@ -9,6 +9,8 @@
   "author": "Sriram Krishnan",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^8.2.0",
+    "request": "^2.88.0",
     "slackbots": "^1.2.0"
   }
 }
